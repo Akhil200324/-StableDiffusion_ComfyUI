@@ -1,1 +1,1 @@
-# -StableDiffusion_ComfyUI
+# StableDiffusion_ComfyUI
